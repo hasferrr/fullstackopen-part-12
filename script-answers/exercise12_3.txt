@@ -1,0 +1,15 @@
+Script started on 2023-10-22 15:26:00+07:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="133" LINES="36"]
+[?2004h]0;hasferrr@DESKTOP-HR7NGUV: ~/repo/fullstackopen/fullstackopen-part-12[01;32mhasferrr@DESKTOP-HR7NGUV[00m:[01;34m~/repo/fullstackopen/fullstackopen-part-12[00m$ docker container -[Kls -a
+[?2004lCONTAINER ID   IMAGE         COMMAND    CREATED          STATUS                          PORTS     NAMES
+673993c88357   ubuntu        "bash"     14 minutes ago   Exited (0) About a minute ago             amazing_shirley
+27f060202237   hello-world   "/hello"   16 minutes ago   Exited (0) 16 minutes ago                 happy_easley
+[?2004h]0;hasferrr@DESKTOP-HR7NGUV: ~/repo/fullstackopen/fullstackopen-part-12[01;32mhasferrr@DESKTOP-HR7NGUV[00m:[01;34m~/repo/fullstackopen/fullstackopen-part-12[00m$ codk[K[K[K[Kdocker contai[K[K[Kstart amazing_shirley -i
+[?2004l[?2004h]0;root@673993c88357: /root@673993c88357:/# nano [7m/usr/src/app/index.js[27m/usr/src/app/index.js
+[?2004l[?2004h[?1049h[22;0;0t[1;36r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[34;60H(B[0;7m[ Reading... ](B[m[34;59H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 6.2 [43b/usr/src/app/index.js [52b [1;132H(B[m[35d(B[0;7m^G(B[m Help[35;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut[35;65H(B[0;7m^T(B[m Execute[81G(B[0;7m^C(B[m Location     (B[0;7mM-U(B[m Undo[35;113H(B[0;7mM-A(B[m Set Mark[36d(B[0;7m^X(B[m Exit[36;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste[36;65H(B[0;7m^J(B[m Justify[81G(B[0;7m^/(B[m Go To Line   (B[0;7mM-E(B[m Redo[36;113H(B[0;7mM-6(B[m Copy[2d[?12l[?25h[?25l[1;81H(B[0;7m*[34d(B[m[K[1;132H[2dconsole.log((B[0;1m[35m'Hello World'[39m(B[m)[?12l[?25h[?25l[?12l[?25h[3d[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[2;27H[?25l[?12l[?25h[3d[?25l[?12l[?25h[?25l[?12l[?25h[?25l[34;60H(B[0;7m[ Writing... ](B[m[1;81H(B[0;7m [132G(B[m[34;59H(B[0;7m[ Wrote 1 line ](B[m[?12l[?25h[3d[?25l[34d[J[36d[?12l[?25h[36;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;root@673993c88357: /root@673993c88357:/# [Knano /usr/src/app/index.js[1P[1P[1P[1P[1@c[1@a[1@t
+[?2004lconsole.log('Hello World')
+[?2004h]0;root@673993c88357: /root@673993c88357:/# exit
+[?2004lexit
+[?2004h]0;hasferrr@DESKTOP-HR7NGUV: ~/repo/fullstackopen/fullstackopen-part-12[01;32mhasferrr@DESKTOP-HR7NGUV[00m:[01;34m~/repo/fullstackopen/fullstackopen-part-12[00m$ exit
+[?2004lexit
+
+Script done on 2023-10-22 15:26:56+07:00 [COMMAND_EXIT_CODE="0"]
